@@ -1,0 +1,18 @@
+[sou]
+title = "搜索"
+description = "打开百度搜索bing"
+type = "op"
+
+steps = [
+    { desc = "打开百度", action = "open", selector = "https://www.baidu.com/" },
+    { desc = "输入bing", action = "input", selector = "//input[@id='kw']", param = "bing" },
+    { desc = "点击确定", action = "click", selector = "//input[@id='su']" }
+]
+
+
+[assert]
+title = "断言"
+type = "assert"
+steps =[
+  { desc = "提取关键字", action = "gettext", selector = "//span[text()='Bing']", value = "data" }
+]

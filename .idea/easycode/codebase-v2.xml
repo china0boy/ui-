@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/base/BasePage.py;C:/Users/HP/Desktop/ui自动化框架/config/LogConfig.py;C:/Users/HP/Desktop/ui自动化框架/config/PathConfig.py;C:/Users/HP/Desktop/ui自动化框架/engine/action_engine.py;C:/Users/HP/Desktop/ui自动化框架/engine/action_manager.py;C:/Users/HP/Desktop/ui自动化框架/tests/test_baidu.py;C:/Users/HP/Desktop/ui自动化框架/main.py;C:/Users/HP/Desktop/ui自动化框架/README.md" />
+  </component>
+</project>
